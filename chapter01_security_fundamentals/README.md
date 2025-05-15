@@ -41,3 +41,18 @@ AWS 예시: Security Group, KMS, IAM, CloudTrail
 실습 코드 예시 (S3 파일 업로드 시 암호화 적용: 기밀성)
 
 chapter01_security_fundamentals/cia_example.py
+
+1.6 Accountability and Nonrepudiation (책임추적성, 부인방지)
+
+이론
+
+책임추적성(Accountability): 누가, 언제, 무엇을 했는지 추적 가능 (ex. CloudTrail 로그)
+
+부인방지(Nonrepudiation): 행위자가 자신의 행동을 부인할 수 없음 (ex. 디지털 서명)
+
+1.7 Authentication, Authorization, and Accounting (인증, 인가, 회계)
+
+실습 코드 예시 (S3 버킷 목록 조회 & CloudTrail로 기록 확인)
+
+chapter01_security_fundamentals/aaa_example.py
+
