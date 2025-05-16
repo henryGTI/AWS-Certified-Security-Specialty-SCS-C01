@@ -1,1 +1,1 @@
-AWS Certified Solutions Architect – Professional (SAP-C02)
+AWS Certified Security Specialty (SCS-C01)
