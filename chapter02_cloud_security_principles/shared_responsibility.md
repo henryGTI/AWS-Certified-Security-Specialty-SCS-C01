@@ -2,7 +2,9 @@ AWS Shared Responsibility Model (공유 책임 모델)
 
   개요
 
-    AWS Shared Responsibility Model(공유 책임 모델)은 클라우드 환경에서 AWS와 고객(사용자)이 각각 어떤 보안 책임을 가지는지 명확하게 구분해주는 모델입니다.
+    AWS Shared Responsibility Model(공유 책임 모델)은 클라우드 환경에서 AWS와 고객(사용자)이 
+    
+    각각 어떤 보안 책임을 가지는지 명확하게 구분해주는 모델입니다.
 
     이 모델을 이해하는 것은 클라우드 보안의 출발점입니다.
 
