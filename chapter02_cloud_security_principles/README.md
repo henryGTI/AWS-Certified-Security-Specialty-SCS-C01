@@ -1,7 +1,5 @@
 2.1 Introduction (소개)
 
-  이론
-
     클라우드 보안은 기존 온프레미스 보안과 달리, 공유 책임 모델(Shared Responsibility Model)을 기반으로 합니다.
 
     즉, AWS와 사용자가 각각 책임져야 할 보안 영역이 다릅니다.
@@ -31,8 +29,6 @@
     내가 책임져야 할 영역(예: S3 버킷 퍼블릭 차단, IAM 정책 관리 등) 정리
 
 2.4 AWS Compliance Programs & Artifact
-
-  이론
 
     AWS Artifact: 규정 준수 관련 문서(감사 리포트 등) 제공
 
